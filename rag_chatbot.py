@@ -3,10 +3,7 @@ import os
 from pages.backend import rag_functions
 import sys
 
-sys.path.append("pages.zip")
-sys.path.append("rag.zip")
 
-from backend import rag_functions
 
 
 
