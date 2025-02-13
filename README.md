@@ -1,3 +1,2 @@
-# chat_bot
-## rag
-###### rag
+# Rag based Chat_bot
+
